@@ -1,0 +1,19 @@
+{
+  "per_diem": 80,
+  "five_day_bonus": 46.752582380810296,
+  "receipts_multiplier_1day": 0.7313101845038972,
+  "receipts_cap_1day": 1063.3748224716169,
+  "receipts_cap_long": 1200,
+  "receipts_multiplier_long": 0.554505655548572,
+  "receipts_split_point": 1324.3407886185967,
+  "receipts_r1": 0.7440333210923471,
+  "receipts_r2": 0.05,
+  "mileage_t1": 0.3,
+  "mileage_t2": 0.35178023901525696,
+  "mileage_cutoff": 461.30387672923143,
+  "efficiency_low": 176.55393880281073,
+  "efficiency_high": 190.17047653536846,
+  "efficiency_bonus": 20.48770452275245,
+  "efficiency_penalty": -33.71600351269614,
+  "efficiency_penalty_trigger": 318.1282018271727
+}

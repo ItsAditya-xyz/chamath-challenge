@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+myenv/
+venv/
+env/
+*.venv/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Results and generated outputs
+private_final_results.txt
+private_results.txt
+
+# Model / data artifacts
+*.npz
+
+# Log files / debugging
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*~
+
+# Compiled files (if any in future)
+*.so
+*.dll
+*.pyd
+
+# Jupyter Notebook checkpoints (if you use notebooks in future)
+.ipynb_checkpoints/
+
+# Secrets / credentials (if any are added later)
+.env
+*.env

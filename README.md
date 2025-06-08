@@ -37,6 +37,9 @@ I used evolutionary search to optimize these parameters against `public_cases.js
 
 ---
 
+
+Then tried random forest too - not so good, came across score to be 3000. code in /random-forest
+
 ### 2️⃣ Key Realization
 
 After carefully studying the public data, I observed:

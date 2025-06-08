@@ -17,7 +17,7 @@ Thumbs.db
 
 
 # Model / data artifacts
-*.npz
+
 
 # Log files / debugging
 *.log

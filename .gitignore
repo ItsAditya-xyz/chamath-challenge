@@ -14,8 +14,7 @@ Thumbs.db
 .vscode/
 
 # Results and generated outputs
-private_final_results.txt
-private_results.txt
+
 
 # Model / data artifacts
 *.npz

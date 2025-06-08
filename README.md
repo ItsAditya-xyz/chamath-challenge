@@ -6,6 +6,8 @@ NOTE: eval.sh and generate_results.sh are super slow for obvious reason. I wrote
 
 eval.py and generate_results.py (they do the same thing which .sh files do except 1000x faster)
 
+This model gives 0 score (lowest possible) on public cases
+
 
 ## Problem Understanding
 
